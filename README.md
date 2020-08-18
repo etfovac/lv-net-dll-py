@@ -21,9 +21,9 @@
 Note: For more on the constructor node issue in VS see <a href="https://github.com/etfovac/dll/issues/2#issue-673036198">'new' triggers browsing to lvclass file on disk</a>  
 
 ### Dependency
-https://github.com/etfovac/dll/tree/master/InteropAssembly
+<a href="https://github.com/etfovac/dll/tree/master/InteropAssembly">ClientApp1.dll (my InteropAssembly example)</a>  
 
 ### References
-https://github.com/pythonnet/pythonnet/wiki/How-to-call-a-dynamic-library  
-https://stackoverflow.com/questions/49942487/python-for-net-how-to-explicitly-create-instances-of-c-sharp-classes-using-dif  
-https://github.com/etfovac/dll/blob/master/ConsoleApp_RA_e0/Program.cs
+<a href="https://github.com/etfovac/dll/blob/master/ConsoleApp_RA_e0/Program.cs">ConsoleApp_RA_e0/Program.cs (my C# Console example)</a>  
+<a href="https://github.com/pythonnet/pythonnet/wiki/How-to-call-a-dynamic-library">How to call a dynamic library (pythonnet wiki)</a>   
+<a href="https://stackoverflow.com/questions/49942487/python-for-net-how-to-explicitly-create-instances-of-c-sharp-classes-using-dif">python for net how to explicitly create instances of csharp classes (stackoverflow qa)</a>   
