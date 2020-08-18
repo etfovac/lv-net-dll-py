@@ -1,4 +1,4 @@
-# lv-net-dll-py [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/lv-net-dll-py/blob/master/LICENSE) 
+# .NET DLL (with LabVIEW classes) in Python [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/lv-net-dll-py/blob/master/LICENSE) 
  Access a .NET DLL (with LabVIEW classes) from Python  
 
 ``` python 
