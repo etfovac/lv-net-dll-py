@@ -1,4 +1,5 @@
-# .NET DLL (with LabVIEW classes) in Python [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/lv-net-dll-py/blob/master/LICENSE) 
+# .NET DLL (with LabVIEW classes) in Python [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/lv-net-dll-py/blob/master/LICENSE) [![DOI](https://zenodo.org/badge/286333382.svg)](https://zenodo.org/badge/latestdoi/286333382)
+ 
  Access a .NET DLL (with LabVIEW classes) in Python  
 
 ``` python 
